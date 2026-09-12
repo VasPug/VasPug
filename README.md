@@ -47,12 +47,3 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VasPug&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasPug&layout=compact&hide_border=true&title_color=2563eb&langs_count=6" alt="Top languages">
-</p>
