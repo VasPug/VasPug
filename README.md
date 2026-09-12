@@ -17,10 +17,8 @@
 ### What I'm working on
 
 - **Manykind AI** — automated evaluation framework that runs on every release and catches agent regressions before deploy
-- **Livin** — AI-powered student housing platform I founded, 700+ users across Cal Poly and UC schools
+- **AI research in causality and alignment** — figuring out *why* models do what they do, not just whether they work
 - **Writing** — notes on agents and evaluation at [vasanthpugalenthi.com/blog](https://vasanthpugalenthi.com/blog)
-
-Currently moving toward interpretability: figuring out *why* models do what they do, not just whether they work.
 
 ---
 
