@@ -1,7 +1,7 @@
 <h1 align="center">Vasanth Pugalenthi</h1>
 
 <p align="center">
-  AI Engineer building and evaluating multi-agent systems.<br>
+  AI engineer and researcher building and evaluating multi-agent systems.<br>
   CS @ Cal Poly SLO &nbsp;·&nbsp; AI Engineer @ Manykind AI
 </p>
 
