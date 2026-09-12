@@ -18,7 +18,7 @@
 
 - **Manykind AI** — automated evaluation framework that runs on every release and catches agent regressions before deploy
 - **AI research in causality and alignment** — figuring out *why* models do what they do, not just whether they work
-- **Writing** — notes on agents and evaluation at [vasanthpugalenthi.com/blog](https://vasanthpugalenthi.com/blog)
+- **Writing** — thoughts on AI, research, products, and whatever else is on my mind, at [vasanthpugalenthi.com/blog](https://vasanthpugalenthi.com/blog)
 
 ---
 
